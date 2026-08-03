@@ -16,7 +16,7 @@ Yoo, gue Rezya! Sekarang lagi *survive* ngampus di Binus (Angkatan 2029). Sehari
 Kalo lagi mumet ngadepin *error codingan*, pelarian gue biasanya ngulik *design*, edit-edit foto, sampe bikin *video editing* buat seru-seruan doang 🎨🎬. Aslinya gue ambivert sih, gampang nyambung diajak *networking* dan nongkrong, tapi butuh waktu juga buat nge-cas energi sendirian. Kalo mau ngobrolin *project*, *design*, atau ngajak mabar, sikat aja *link* di bawah!
 
 <p align="center">
-  <a href="mailto:rezyaindisaputra@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="-"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="-"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://instagram.com/rezy___a"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <img src="https://komarev.com/ghpvc/?username=Blank-MC&label=Views&color=7AA2F7&style=for-the-badge" alt="Profile Views" />
