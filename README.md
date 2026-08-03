@@ -34,6 +34,19 @@ Kalo lagi mumet ngadepin *error codingan*, pelarian gue biasanya ngulik *design*
 
 ---
 
+### 🚀 Etalase Karya (Featured Projects)
+*(Beberapa project andalan yang gue bangun dari nol, cekidot!)*
+<p align="center">
+  <a href="https://github.com/Blank-MC/pos-bengkel-laravel">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Blank-MC&repo=pos-bengkel-laravel&theme=tokyonight&hide_border=true&bg_color=1A1B26" alt="POS Bengkel Project" width="48%" />
+  </a>
+  <a href="https://github.com/Blank-MC/ui-ecommerce-site">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Blank-MC&repo=ui-ecommerce-site&theme=tokyonight&hide_border=true&bg_color=1A1B26" alt="UI Ecommerce Project" width="48%" />
+  </a>
+</p>
+
+---
+
 ### 📊 Stats & Trophies
 *(Btw kalo gambarnya patah atau tulisannya error "Can't fetch", itu server pusatnya yang lagi ngos-ngosan nerima traffic, bukan kodingan gue yang bug wkwk)*
 
