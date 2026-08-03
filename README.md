@@ -54,12 +54,11 @@ Kalo lagi mumet ngadepin *error codingan*, pelarian gue biasanya ngulik *design*
 
 ---
 
-### 📊 Stats & Trophies
-*(Btw kalo gambarnya patah atau tulisannya error "Can't fetch", itu server pusatnya yang lagi ngos-ngosan nerima traffic, bukan kodingan gue yang bug wkwk)*
+### 📊 Stats, Trophies & Top Languages
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Blank-MC&theme=tokyonight&margin-w=15&row=1&column=6&no-frame=true&no-bg=true" alt="Trophies" />
+    <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Blank-MC&theme=tokyonight&margin-w=15&row=1&column=6&no-frame=true&no-bg=true" alt="Trophies" />
   </a>
 </p>
 
@@ -69,24 +68,7 @@ Kalo lagi mumet ngadepin *error codingan*, pelarian gue biasanya ngulik *design*
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Blank-MC&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B26" alt="Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Blank-MC&theme=tokyonight&hide_border=true&background=1A1B26" alt="Streak" width="48%" />
-</p>
-
----
-
-### 🃏 Gabut? Main Tic-Tac-Toe Sini!
-*(Pencet salah satu kotaknya buat mulai duel via GitHub Issues. Jangan curang!)*
-
-<p align="center">
-  <a href="https://github.com/Blank-MC/Blank-MC/issues/new?title=ttt%7C1%7C1&body=Just+push+%27Submit+new+issue%27."><img src="https://img.shields.io/badge/-%20%20%20%20%20%20-2d3342?style=for-the-badge&border=none" /></a>
-  <a href="https://github.com/Blank-MC/Blank-MC/issues/new?title=ttt%7C1%7C2&body=Just+push+%27Submit+new+issue%27."><img src="https://img.shields.io/badge/-%20%20%20%20%20%20-2d3342?style=for-the-badge&border=none" /></a>
-  <a href="https://github.com/Blank-MC/Blank-MC/issues/new?title=ttt%7C1%7C3&body=Just+push+%27Submit+new+issue%27."><img src="https://img.shields.io/badge/-%20%20%20%20%20%20-2d3342?style=for-the-badge&border=none" /></a><br>
-  <a href="https://github.com/Blank-MC/Blank-MC/issues/new?title=ttt%7C2%7C1&body=Just+push+%27Submit+new+issue%27."><img src="https://img.shields.io/badge/-%20%20%20%20%20%20-2d3342?style=for-the-badge&border=none" /></a>
-  <a href="https://github.com/Blank-MC/Blank-MC/issues/new?title=ttt%7C2%7C2&body=Just+push+%27Submit+new+issue%27."><img src="https://img.shields.io/badge/-%20%20%20%20%20%20-2d3342?style=for-the-badge&border=none" /></a>
-  <a href="https://github.com/Blank-MC/Blank-MC/issues/new?title=ttt%7C2%7C3&body=Just+push+%27Submit+new+issue%27."><img src="https://img.shields.io/badge/-%20%20%20%20%20%20-2d3342?style=for-the-badge&border=none" /></a><br>
-  <a href="https://github.com/Blank-MC/Blank-MC/issues/new?title=ttt%7C3%7C1&body=Just+push+%27Submit+new+issue%27."><img src="https://img.shields.io/badge/-%20%20%20%20%20%20-2d3342?style=for-the-badge&border=none" /></a>
-  <a href="https://github.com/Blank-MC/Blank-MC/issues/new?title=ttt%7C3%7C2&body=Just+push+%27Submit+new+issue%27."><img src="https://img.shields.io/badge/-%20%20%20%20%20%20-2d3342?style=for-the-badge&border=none" /></a>
-  <a href="https://github.com/Blank-MC/Blank-MC/issues/new?title=ttt%7C3%7C3&body=Just+push+%27Submit+new+issue%27."><img src="https://img.shields.io/badge/-%20%20%20%20%20%20-2d3342?style=for-the-badge&border=none" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blank-MC&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B26" alt="Top Languages" width="48%" />
 </p>
 
 ---
@@ -103,7 +85,7 @@ Kalo lagi mumet ngadepin *error codingan*, pelarian gue biasanya ngulik *design*
 ---
 
 ### 💡 Quote of the Day & Jokes Receh
-*(Biar otak nggak kram mikirin error. Ganti sendiri tiap di-refresh! COBA AJA KALO GK PERCAYA!!)*
+*(Biar otak nggak kram mikirin error. Ganti sendiri tiap di-refresh!)*
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the Day" />
 </p>
