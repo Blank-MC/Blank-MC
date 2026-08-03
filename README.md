@@ -24,11 +24,31 @@ Kalo lagi mumet ngadepin *error codingan*, pelarian gue biasanya ngulik *design*
 
 ---
 
+### 🎮 Live Status
+*(Real-time dari Discord gue, lagi ngapain nih sekarang?)*
+<p align="center">
+  <a href="https://discord.com/users/491463161153585153">
+    <img src="https://lanyard.cnrad.dev/api/491463161153585153?theme=tokyonight&bg=1A1B26&animated=true" alt="Discord Presence" />
+  </a>
+</p>
+
+---
+
 ### 🛠️ Senjata Tempur
 *(Alat tempur andalan gue pas lagi ngoding atau ngerancang sistem & design)*
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,cs,php,css,laravel,mysql,figma,vscode,github,gitlab&perline=8" />
+  </a>
+</p>
+
+---
+
+### 🎧 Vibe Check (Lagu Wajib Gue)
+*(Lagu penangkal stres yang udah pasti sering banget nemenin gue ngoding, klik aja!)*
+<p align="center">
+  <a href="https://open.spotify.com/search/Merry%20Christmas%20I%20Miss%20You%20Alex%20Christon">
+    <img src="https://img.shields.io/badge/Spotify-Merry%20Christmas,%20I%20Miss%20You%20%E2%80%94%20Alex%20Christon-1A1B26?style=for-the-badge&logo=spotify&logoColor=1ED760&border=1ED760" alt="Merry Christmas, I Miss You - Alex Christon" />
   </a>
 </p>
 
@@ -82,8 +102,11 @@ Kalo lagi mumet ngadepin *error codingan*, pelarian gue biasanya ngulik *design*
 
 ---
 
-### 🤖 Asupan Jokes Receh
-*(Bakal ganti sendiri tiap halamannya di-refresh! COBA AJA KALO GK PERCAYA!)*
+### 💡 Quote of the Day & Jokes Receh
+*(Biar otak nggak kram mikirin error. Ganti sendiri tiap di-refresh!)*
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the Day" />
+</p>
 <p align="center">
   <a href="https://github.com/readme-jokes/readme-jokes">
     <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" alt="Jokes Card" />
