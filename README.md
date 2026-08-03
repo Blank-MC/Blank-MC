@@ -28,7 +28,7 @@ Aslinya gue ambivert sih, gampang nyambung diajak *networking* dan nongkrong, ta
 *(Alat tempur andalan gue pas lagi ngoding atau ngerancang sistem)*
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,php,laravel,mysql,figma,vscode,github,gitlab&perline=8" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,php,css,laravel,mysql,figma,vscode,github,gitlab&perline=8" />
   </a>
 </p>
 
