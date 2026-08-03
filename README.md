@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7768E&center=true&vCenter=true&width=800&lines=Binusian+2029+%F0%9F%8E%93;Full-Stack+Developer+%F0%9F%92%BB;Desktop+UI+%26+Customization+Enthusiast+%E2%9C%A8;Valorant+%26+Roblox+(Controller+Gang+%F0%9F%8E%AE);Proud+Ambivert+%E2%9A%96%EF%B8%8F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7768E&center=true&vCenter=true&width=800&lines=Binusian+2029+%F0%9F%8E%93;Full-Stack+Developer+%F0%9F%92%BB;Desktop+UI+%26+Customization+Enthusiast+%E2%9C%A8;Valorant+%26+Roblox+(Mobile+Gang+%F0%9F%8E%AE);Proud+Ambivert+%E2%9A%96%EF%B8%8F" alt="Typing SVG" />
   </a>
 </p>
 
@@ -85,7 +85,7 @@ Kalo lagi mumet ngadepin *error codingan*, pelarian gue biasanya ngulik *design*
 ---
 
 ### 💡 Quote of the Day & Jokes Receh
-*(Biar otak nggak kram mikirin error. Ganti sendiri tiap di-refresh!)*
+*(Biar otak nggak kram mikirin error. Ganti sendiri tiap di-refresh! COBA AJA KALO GK PERCAYA!!)*
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the Day" />
 </p>
