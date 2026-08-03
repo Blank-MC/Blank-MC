@@ -13,7 +13,7 @@
 ### 👾 Siapa Nih?
 Yoo, gue Rezya! Sekarang lagi *survive* ngampus di Binus (Angkatan 2029). Sehari-harinya gue ngabisin waktu buat ngulik Full-Stack, belajar cyber security, sama *push rank* Valorant atau main Roblox. Walau main di PC, gue tetep penganut garis keras game *mobile* 📱. 
 
-Aslinya gue ambivert sih, gampang nyambung diajak *networking* dan nongkrong, tapi butuh waktu juga buat nge-cas energi sendirian. Kalo mau ngobrolin *codingan*, *project*, atau ngajak mabar, sikat aja *link* di bawah!
+Kalo lagi mumet ngadepin *error codingan*, pelarian gue biasanya ngulik *design*, edit-edit foto, sampe bikin *video editing* buat seru-seruan doang 🎨🎬. Aslinya gue ambivert sih, gampang nyambung diajak *networking* dan nongkrong, tapi butuh waktu juga buat nge-cas energi sendirian. Kalo mau ngobrolin *project*, *design*, atau ngajak mabar, sikat aja *link* di bawah!
 
 <p align="center">
   <a href="mailto:rezyaindisaputra@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -25,7 +25,7 @@ Aslinya gue ambivert sih, gampang nyambung diajak *networking* dan nongkrong, ta
 ---
 
 ### 🛠️ Senjata Tempur
-*(Alat tempur andalan gue pas lagi ngoding atau ngerancang sistem)*
+*(Alat tempur andalan gue pas lagi ngoding atau ngerancang sistem & design)*
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,cs,php,css,laravel,mysql,figma,vscode,github,gitlab&perline=8" />
