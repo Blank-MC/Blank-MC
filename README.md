@@ -11,13 +11,13 @@
 ---
 
 ### 👾 Siapa Nih?
-Yoo, gue Rezya! Sekarang lagi *survive* ngampus di Binus (Angkatan 2029). Sehari-harinya gue ngabisin waktu buat ngulik Full-Stack, modif UI desktop biar estetik maksimal, sama *push rank* Valorant atau main Roblox. Walau main di PC, gue tetep penganut garis keras *controller* 🎮. 
+Yoo, gue Rezya! Sekarang lagi *survive* ngampus di Binus (Angkatan 2029). Sehari-harinya gue ngabisin waktu buat ngulik Full-Stack, belajar cyber security, sama *push rank* Valorant atau main Roblox. Walau main di PC, gue tetep penganut garis keras game *mobile* 📱. 
 
 Aslinya gue ambivert sih, gampang nyambung diajak *networking* dan nongkrong, tapi butuh waktu juga buat nge-cas energi sendirian. Kalo mau ngobrolin *codingan*, *project*, atau ngajak mabar, sikat aja *link* di bawah!
 
 <p align="center">
   <a href="mailto:rezyaindisaputra@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/deni"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="-"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://instagram.com/rezy___a"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <img src="https://komarev.com/ghpvc/?username=Blank-MC&label=Views&color=7AA2F7&style=for-the-badge" alt="Profile Views" />
 </p>
@@ -28,7 +28,7 @@ Aslinya gue ambivert sih, gampang nyambung diajak *networking* dan nongkrong, ta
 *(Alat tempur andalan gue pas lagi ngoding atau ngerancang sistem)*
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,php,laravel,mysql,figma,vscode,github&perline=8" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,php,laravel,mysql,figma,vscode,github,gitlab&perline=8" />
   </a>
 </p>
 
@@ -71,7 +71,7 @@ Aslinya gue ambivert sih, gampang nyambung diajak *networking* dan nongkrong, ta
 
 ---
 
-### 🐍 Pawang Ular (Auto-Makan Kontribusi)
+### 🐍 Pawang Ular Juga Nich
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Blank-MC/Blank-MC/output/github-contribution-grid-snake-dark.svg">
@@ -83,7 +83,7 @@ Aslinya gue ambivert sih, gampang nyambung diajak *networking* dan nongkrong, ta
 ---
 
 ### 🤖 Asupan Jokes Receh
-*(Bakal ganti sendiri tiap halamannya di-refresh!)*
+*(Bakal ganti sendiri tiap halamannya di-refresh! COBA AJA KALO GK PERCAYA!)*
 <p align="center">
   <a href="https://github.com/readme-jokes/readme-jokes">
     <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" alt="Jokes Card" />
