@@ -103,7 +103,7 @@ Kalo lagi mumet ngadepin *error codingan*, pelarian gue biasanya ngulik *design*
 ---
 
 ### 💡 Quote of the Day & Jokes Receh
-*(Biar otak nggak kram mikirin error. Ganti sendiri tiap di-refresh!)*
+*(Biar otak nggak kram mikirin error. Ganti sendiri tiap di-refresh! COBA AJA KALO GK PERCAYA!!)*
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the Day" />
 </p>
