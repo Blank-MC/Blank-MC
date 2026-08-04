@@ -58,17 +58,17 @@ Kalo lagi mumet ngadepin *error codingan*, pelarian gue biasanya ngulik *design*
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Blank-Mc&theme=tokyonight&margin-w=15&row=1&column=6&no-frame=true&no-bg=true" alt="Trophies" />
+    <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Blank-Mc&theme=tokyonight&margin-w=15&row=1&column=6&no-frame=true&no-bg=true&v=1" alt="Trophies" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Blank-Mc&bg_color=1A1B26&color=7AA2F7&line=F7768E&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Blank-Mc&bg_color=1A1B26&color=7AA2F7&line=F7768E&point=FFFFFF&area=true&hide_border=true&v=1" alt="Activity Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Blank-Mc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B26" alt="Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blank-Mc&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B26" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Blank-Mc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B26&v=1" alt="Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blank-Mc&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B26&v=1" alt="Top Languages" width="48%" />
 </p>
 
 ---
