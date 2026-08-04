@@ -67,8 +67,8 @@ Kalo lagi mumet ngadepin *error codingan*, pelarian gue biasanya ngulik *design*
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-seven-delta-70.vercel.app/api?username=Blank-MC&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B26" alt="Stats" height="165" />
-  <img src="https://github-readme-stats-seven-delta-70.vercel.app/api/top-langs/?username=Blank-MC&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B26" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats-seven-delta-70.vercel.app/api?username=Blank-MC&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B26" alt="Stats" width="400" />
+  <img src="https://github-readme-stats-seven-delta-70.vercel.app/api/top-langs/?username=Blank-MC&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B26" alt="Top Languages" width="400" />
 </p>
 
 ---
