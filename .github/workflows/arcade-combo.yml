@@ -1,4 +1,4 @@
-name: Generate Arcade Graphs (Pacman & Snake)
+name: Generate Arcade Graphs
 
 on:
   schedule:
@@ -9,7 +9,7 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      # 1. Bikin gambar Ular
+      # 1. Bikin gambar Ular pakai aturan V3 (Terbaru)
       - name: Generate Snake Graph 🐍
         uses: Platane/snk@v3
         with:
@@ -17,15 +17,14 @@ jobs:
           outputs: |
             dist/snake-dark.svg?palette=github-dark
 
-      # 2. Bikin gambar Pacman
+      # 2. Bikin gambar Pacman pakai aturan V2 (Jadul)
       - name: Generate Pacman Graph 🍒
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: Blank-MC
-          outputs: |
-            dist/pacman-dark.svg?palette=github-dark
-          
-      # 3. Masukin dua-duanya ke branch output
+          svg_out_path: dist/pacman-dark.svg
+
+      # 3. Upload dua-duanya ke branch 'output'
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
