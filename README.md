@@ -82,6 +82,14 @@ Kalo lagi mumet ngadepin *error codingan*, pelarian gue biasanya ngulik *design*
   </picture>
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Blank-MC/Blank-MC/output/github-contribution-grid-pacman-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Blank-MC/Blank-MC/output/github-contribution-grid-pacman.svg">
+    <img alt="Pacman contribution graph animation" src="https://raw.githubusercontent.com/Blank-MC/Blank-MC/output/github-contribution-grid-pacman.svg">
+  </picture>
+</p>
+
 ---
 
 ### 💡 Quote of the Day & Jokes Receh
