@@ -77,11 +77,19 @@ Kalo lagi mumet ngadepin *error codingan*, pelarian gue biasanya ngulik *design*
 *(Pawang Ular & Pacman lagi pada makanin kotak hijau)*
 
 <p align="center">
-  <img alt="Snake Animation" src="https://raw.githubusercontent.com/Blank-MC/Blank-MC/output/snake-dark.svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Blank-MC/Blank-MC/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Blank-MC/Blank-MC/output/snake-light.svg">
+    <img alt="Snake Animation" src="https://raw.githubusercontent.com/Blank-MC/Blank-MC/output/snake-dark.svg">
+  </picture>
 </p>
 
 <p align="center">
-  <img alt="Pacman Animation" src="https://raw.githubusercontent.com/Blank-MC/Blank-MC/output/pacman-contribution-graph.svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Blank-MC/Blank-MC/output/pacman-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Blank-MC/Blank-MC/output/pacman-light.svg">
+    <img alt="Pacman Animation" src="https://raw.githubusercontent.com/Blank-MC/Blank-MC/output/pacman-dark.svg">
+  </picture>
 </p>
 
 ---
