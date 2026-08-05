@@ -5,35 +5,44 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+# Paksa kasih izin nulis ke sistem biar gak pernah ada error permission lagi
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      # 1. Bikin folder dist dan kasih izin penuh biar mesin nggak berantem (Fix Permission Denied)
-      - name: Setup Output Folder
-        run: |
-          mkdir -p dist
-          sudo chmod 777 dist
+      # 1. Siapin area kerja
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      # 2. Bikin gambar Pacman (Otomatis nama file-nya: pacman-contribution-graph.svg)
+      # 2. Pacman kerja di folder 'dist'
       - name: Generate Pacman Graph 🍒
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: Blank-MC
 
-      # 3. Bikin gambar Ular (Nama file: snake-dark.svg)
+      # 3. Ular kerja di folder 'snake-temp'
       - name: Generate Snake Graph 🐍
         uses: Platane/snk@v3
         with:
           github_user_name: Blank-MC
           outputs: |
-            dist/snake-dark.svg?palette=github-dark
+            snake-temp/snake-dark.svg?palette=github-dark
 
-      # 4. Upload dua-duanya ke branch 'output'
+      # 4. Pindahin Ular, lalu ubah hak milik file (Fix Error 128)
+      - name: Gabungkan File & Fix Ownership
+        run: |
+          sudo cp snake-temp/snake-dark.svg dist/
+          sudo chown -R $USER:$USER dist/
+
+      # 5. Upload semuanya pakai mesin versi terbaru (Fix Warning Kuning)
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
+          keep_history: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
