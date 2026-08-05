@@ -1,19 +1,19 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7AA2F7&height=250&section=header&text=Yo!%20Welcome%20to%20My%20Base&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=C0CAF5" alt="Header Animasi" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7AA2F7&height=250&section=header&text=Yo!%20Welcome%20to%20My%20Base&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=C0CAF5" alt="Header Animation" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7768E&center=true&vCenter=true&width=800&lines=Binusian+2029+%F0%9F%8E%93;Full-Stack+Developer+%F0%9F%92%BB;Valorant+%26+Roblox+(Mobile+Gang+%F0%9F%8E%AE);Proud+Ambivert+%E2%9A%96%EF%B8%8F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7768E&center=true&vCenter=true&width=800&lines=Binusian+2029+%F0%9F%8E%93;Full-Stack+Developer+%F0%9F%92%BB;Desktop+UI+%26+Customization+Enthusiast+%E2%9C%A8;Valorant+%26+Roblox+(Mobile+Gamer+%F0%9F%8E%AE);Proud+Ambivert+%E2%9A%96%EF%B8%8F" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-### 👾 Siapa Nih?
-Yoo, gue Rezya! Sekarang lagi *survive* ngampus di Binus (Angkatan 2029). Sehari-harinya gue ngabisin waktu buat ngulik Full-Stack, belajar cyber security, sama *push rank* Valorant atau main Roblox. Walau main di PC, gue tetep penganut garis keras game *mobile* 📱. 
+### 👾 About Me
+Hey, I'm Rezya! Currently surviving college life at Binus University (Class of 2029). Day-to-day, you'll find me exploring Full-Stack development, diving into cybersecurity, or grinding ranks in Valorant and Roblox. Even though I play on PC, I'm a hardcore mobile gaming fan at heart 📱.
 
-Kalo lagi mumet ngadepin *error codingan*, pelarian gue biasanya ngulik *design*, edit-edit foto, sampe bikin *video editing* buat seru-seruan doang 🎨🎬. Aslinya gue ambivert sih, gampang nyambung diajak *networking* dan nongkrong, tapi butuh waktu juga buat nge-cas energi sendirian. Kalo mau ngobrolin *project*, *design*, atau ngajak mabar, sikat aja *link* di bawah!
+Whenever my brain fries from debugging code, my escape is usually UI designing, photo editing, or dabbling in video creation for fun 🎨🎬. I'm an ambivert—super easygoing and down for networking or hanging out, but I definitely need my solo recharge time too. If you want to talk about projects, design, or team up for a game, hit the links below!
 
 <p align="center">
   <a href="-"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -25,7 +25,7 @@ Kalo lagi mumet ngadepin *error codingan*, pelarian gue biasanya ngulik *design*
 ---
 
 ### 🎮 Live Status
-*(Real-time dari Discord gue, lagi ngapain nih sekarang?)*
+*(Real-time from my Discord presence)*
 <p align="center">
   <a href="https://discord.com/users/491463161153585153">
     <img src="https://lanyard.cnrad.dev/api/491463161153585153?theme=tokyonight&bg=1A1B26&animated=true" alt="Discord Presence" />
@@ -34,8 +34,8 @@ Kalo lagi mumet ngadepin *error codingan*, pelarian gue biasanya ngulik *design*
 
 ---
 
-### 🛠️ Senjata Tempur
-*(Alat tempur andalan gue pas lagi ngoding atau ngerancang sistem & design)*
+### 🛠️ Tech Stack & Tools
+*(My reliable arsenal for coding, system architecture, and design)*
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,cs,php,css,laravel,mysql,figma,vscode,github,gitlab&perline=8" />
@@ -44,8 +44,8 @@ Kalo lagi mumet ngadepin *error codingan*, pelarian gue biasanya ngulik *design*
 
 ---
 
-### 🎧 Vibe Check (Lagu Wajib Gue)
-*(Lagu penangkal stres yang udah pasti sering banget nemenin gue ngoding, klik aja!)*
+### 🎧 Vibe Check (Current Anthem)
+*(My ultimate stress-relief track while coding, click to listen!)*
 <p align="center">
   <a href="https://open.spotify.com/search/Merry%20Christmas%20I%20Miss%20You%20Alex%20Christon">
     <img src="https://img.shields.io/badge/Spotify-Merry%20Christmas,%20I%20Miss%20You%20%E2%80%94%20Alex%20Christon-1A1B26?style=for-the-badge&logo=spotify&logoColor=1ED760&border=1ED760" alt="Merry Christmas, I Miss You - Alex Christon" />
@@ -74,7 +74,7 @@ Kalo lagi mumet ngadepin *error codingan*, pelarian gue biasanya ngulik *design*
 ---
 
 ### 👾 The Arcade Contribution
-*(Pawang Ular & Pacman lagi pada makanin kotak hijau)*
+*(Snake & Pacman devouring the contribution grid)*
 
 <p align="center">
   <picture>
@@ -94,8 +94,8 @@ Kalo lagi mumet ngadepin *error codingan*, pelarian gue biasanya ngulik *design*
 
 ---
 
-### 💡 Quote of the Day & Jokes Receh
-*(Biar otak nggak kram mikirin error. Ganti sendiri tiap di-refresh! COBA AJA KALO GK PERCAYA!!)*
+### 💡 Quote of the Day & Dev Humor
+*(To keep the brain from frying over syntax errors. Changes on every refresh!)*
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the Day" />
 </p>
