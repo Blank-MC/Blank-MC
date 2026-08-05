@@ -81,7 +81,7 @@ Kalo lagi mumet ngadepin *error codingan*, pelarian gue biasanya ngulik *design*
 </p>
 
 <p align="center">
-  <img alt="Pacman Animation" src="https://raw.githubusercontent.com/Blank-MC/Blank-MC/output/pacman-dark.svg">
+  <img alt="Pacman Animation" src="https://raw.githubusercontent.com/Blank-MC/Blank-MC/output/pacman-contribution-graph.svg">
 </p>
 
 ---
