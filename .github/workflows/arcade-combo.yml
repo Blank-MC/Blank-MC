@@ -5,7 +5,6 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
-# Paksa kasih izin nulis ke sistem biar gak pernah ada error permission lagi
 permissions:
   contents: write
 
@@ -13,31 +12,46 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      # 1. Siapin area kerja
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # 2. Pacman kerja di folder 'dist'
+      # 1. Bikin gambar Pacman (Secara default warnanya terang)
       - name: Generate Pacman Graph 🍒
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: Blank-MC
 
-      # 3. Ular kerja di folder 'snake-temp'
+      # 2. HACK: Duplikat jadi 2 versi (Light & Dark), lalu suntik warna gelap ke versi Dark
+      - name: Create Light & Dark Pacman Versions 🌗
+        run: |
+          # Copy file aslinya jadi versi Light
+          cp dist/pacman-contribution-graph.svg dist/pacman-light.svg
+          # Ganti nama file aslinya jadi versi Dark untuk disuntik
+          mv dist/pacman-contribution-graph.svg dist/pacman-dark.svg
+          
+          # Suntik warna Tokyonight KHUSUS ke file pacman-dark.svg
+          sed -i -e 's/#ffffff/#1A1B26/gi' -e 's/white/#1A1B26/gi' dist/pacman-dark.svg
+          sed -i -e 's/#ebedf0/#292E42/gi' dist/pacman-dark.svg
+          sed -i -e 's/#24292e/#C0CAF5/gi' dist/pacman-dark.svg
+          sed -i -e 's/stroke="black"/stroke="#C0CAF5"/gi' -e 's/stroke="#000000"/stroke="#C0CAF5"/gi' dist/pacman-dark.svg
+          sed -i -e 's/fill="black"/fill="#C0CAF5"/gi' -e 's/fill="#000000"/fill="#C0CAF5"/gi' dist/pacman-dark.svg
+
+      # 3. Ular kerja bikin dua versi sekaligus (Light & Dark)
       - name: Generate Snake Graph 🐍
         uses: Platane/snk@v3
         with:
           github_user_name: Blank-MC
           outputs: |
+            snake-temp/snake-light.svg?palette=github-light
             snake-temp/snake-dark.svg?palette=github-dark
 
-      # 4. Pindahin Ular, lalu ubah hak milik file (Fix Error 128)
+      # 4. Pindahin 2 file Ular & Fix Ownership
       - name: Gabungkan File & Fix Ownership
         run: |
-          sudo cp snake-temp/snake-dark.svg dist/
+          sudo cp snake-temp/snake-*.svg dist/
           sudo chown -R $USER:$USER dist/
 
-      # 5. Upload semuanya pakai mesin versi terbaru (Fix Warning Kuning)
+      # 5. Upload ke-4 file tersebut ke branch output
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
