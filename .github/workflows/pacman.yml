@@ -1,0 +1,25 @@
+name: Generate Pacman Contribution Graph
+
+on:
+  schedule:
+    # Jalan otomatis setiap jam 00:00
+    - cron: "0 0 * * *"
+  # Bisa dijalankan manual lewat tab Actions
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Pacman Graph
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: Blank-MC
+          
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
