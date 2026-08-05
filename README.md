@@ -80,7 +80,7 @@ Kalo lagi mumet ngadepin *error codingan*, pelarian gue biasanya ngulik *design*
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Blank-MC/Blank-MC/output/snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Blank-MC/Blank-MC/output/snake-light.svg">
-    <img alt="Snake Animation" src="https://raw.githubusercontent.com/Blank-MC/Blank-MC/output/snake-dark.svg">
+    <img alt="Snake Animation" src="https://raw.githubusercontent.com/Blank-MC/Blank-MC/output/snake-dark.svg" width="100%">
   </picture>
 </p>
 
