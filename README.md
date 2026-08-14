@@ -4,16 +4,10 @@
 <table width="100%" style="border-collapse: collapse; border: none;">
   <tr>
     <td width="42%" valign="top" style="border: none;">
-      <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=blank-mc&theme=aurora&style=terminal&mode=light" />
-        <img src="https://www.gitskins.com/api/section/portrait?username=blank-mc&theme=aurora&style=terminal&mode=dark" width="100%" alt="blank-mc portrait" />
-      </picture>
+      <img src="./portrait.svg" width="100%" alt="Portrait SVG" />
     </td>
     <td width="58%" valign="top" style="border: none;">
-      <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=blank-mc&theme=aurora&style=terminal&label=Blank_Mc&mode=light" />
-        <img src="https://www.gitskins.com/api/section/wordmark?username=blank-mc&theme=aurora&style=terminal&label=Blank_Mc&mode=dark" width="100%" alt="blank-mc wordmark" />
-      </picture>
+      <img src="./wordmark.svg" width="100%" alt="Wordmark SVG" />
     </td>
   </tr>
 </table>
