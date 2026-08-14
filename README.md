@@ -1,11 +1,4 @@
 <div align="center">
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&lines=Binusian+2029+%F0%9F%8E%93;Full-Stack+Developer+%F0%9F%92%BB;Desktop+UI+%26+Customization+Enthusiast+%E2%9C%A8;Valorant+%26+Roblox+(Mobile+Gamer+%F0%9F%8E%AE);Proud+Ambivert+%E2%9A%96%EF%B8%8F" alt="Typing SVG" />
-</a>
-
-<br><br>
-
 <h3><code>rezya@github ~ $ whoami</code></h3>
 
 <table width="100%" style="border-collapse: collapse; border: none;">
@@ -116,8 +109,22 @@
     <td width="50%" align="center" valign="middle" style="border: none;">
       <h3>🔥 Grinding Streak</h3>
       <a href="https://github.com/Blank-MC">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Blank-MC&theme=tokyonight&hide_border=true&background=1A1B26" alt="GitHub Streak" width="90%"/>
+        <img src="https://streak-stats.demolab.com/?user=Blank-MC&theme=tokyonight&hide_border=true&background=1A1B26" alt="GitHub Streak" width="90%"/>
       </a>
     </td>
   </tr>
 </table>
+
+---
+
+### <code>> neofetch</code>
+```yaml
+       /\            rezya@github
+      /  \           -------------------
+     /\   \          OS: Binusian OS (2029)
+    /      \         Host: Full-Stack Dev
+   /   ,,   \        Uptime: 18 years
+  /   |  |   \       Packages: npm, artisan, pip
+ /_-''    ''-_\      Shell: bash 5.1.16
+
+                     ███ ███ ███ ███ ███ ███
