@@ -100,31 +100,19 @@
 
 <table width="100%" style="border-collapse: collapse; border: none;">
   <tr>
-    <td width="50%" align="center" valign="middle" style="border: none;">
-      <h3>👾 Dev Humor</h3>
+    <td width="50%" align="center" valign="bottom" style="border: none;"><h3>👾 Dev Humor</h3></td>
+    <td width="50%" align="center" valign="bottom" style="border: none;"><h3>🔥 Grinding Streak</h3></td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top" style="border: none;">
       <a href="https://github.com/readme-jokes/readme-jokes">
-        <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" alt="Jokes Card" width="90%"/>
+        <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" alt="Jokes Card" />
       </a>
     </td>
-    <td width="50%" align="center" valign="middle" style="border: none;">
-      <h3>🔥 Grinding Streak</h3>
+    <td width="50%" align="center" valign="top" style="border: none;">
       <a href="https://github.com/Blank-MC">
-        <img src="https://streak-stats.demolab.com/?user=Blank-MC&theme=tokyonight&hide_border=true&background=1A1B26" alt="GitHub Streak" width="90%"/>
+        <img src="https://streak-stats.demolab.com/?user=Blank-MC&theme=tokyonight&hide_border=true&background=1A1B26" alt="GitHub Streak" />
       </a>
     </td>
   </tr>
 </table>
-
----
-
-### <code>> neofetch</code>
-```yaml
-       /\            rezya@github
-      /  \           -------------------
-     /\   \          OS: Binusian OS (2029)
-    /      \         Host: Full-Stack Dev
-   /   ,,   \        Uptime: 18 years
-  /   |  |   \       Packages: npm, artisan, pip
- /_-''    ''-_\      Shell: bash 5.1.16
-
-                     ███ ███ ███ ███ ███ ███
