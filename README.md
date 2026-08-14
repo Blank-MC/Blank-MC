@@ -98,21 +98,31 @@
 
 ---
 
-<table width="100%" style="border-collapse: collapse; border: none;">
+<div align="center">
+<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
   <tr>
-    <td width="50%" align="center" valign="bottom" style="border: none;"><h3>👾 Dev Humor</h3></td>
-    <td width="50%" align="center" valign="bottom" style="border: none;"><h3>🔥 Grinding Streak</h3></td>
+    <td width="50%" align="center" style="border: none; padding-bottom: 5px;">
+      <h3><code>> ./joke.sh</code></h3>
+    </td>
+    <td width="50%" align="center" style="border: none; padding-bottom: 5px;">
+      <h3><code>> ./grind-streak.sh</code></h3>
+    </td>
   </tr>
   <tr>
     <td width="50%" align="center" valign="top" style="border: none;">
-      <a href="https://github.com/readme-jokes/readme-jokes">
-        <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" alt="Jokes Card" />
-      </a>
+      <div align="center">
+        <a href="https://github.com/readme-jokes/readme-jokes">
+          <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" alt="Jokes Card" />
+        </a>
+      </div>
     </td>
     <td width="50%" align="center" valign="top" style="border: none;">
-      <a href="https://github.com/Blank-MC">
-        <img src="https://streak-stats.demolab.com/?user=Blank-MC&theme=tokyonight&hide_border=true&background=1A1B26" alt="GitHub Streak" />
-      </a>
+      <div align="center">
+        <a href="https://github.com/Blank-MC">
+          <img src="https://streak-stats.demolab.com/?user=Blank-MC&theme=tokyonight&hide_border=true&background=1A1B26" alt="GitHub Streak" />
+        </a>
+      </div>
     </td>
   </tr>
 </table>
+</div>
